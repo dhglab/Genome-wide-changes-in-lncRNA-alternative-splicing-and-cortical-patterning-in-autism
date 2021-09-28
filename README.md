@@ -1,5 +1,6 @@
-# Genome-wide-changes-in-lncRNA-alternative-splicing-and-cortical-patterning-in-autism
-Human Postmortem ASD RNA-seq Analysis Parikshak et al 2016
+# Genome-wide-changes-in-lncRNA-alternative-splicing-and-cortical-patterning-in-autism-2016
+
+Human Postmortem ASD RNA-seq Analysis Parikshak, Swarup, Belgard et al, Nature 2016
 
 The repository has 3 folders - code, data and output. The R code to replicate the analyses are in the code folder. The input data in the form of csv files and RData files can be found under data/provided. 
 
